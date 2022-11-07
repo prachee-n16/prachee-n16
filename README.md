@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**prachee-n16/prachee-n16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const prachee = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "AI", "hackathons"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Django", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳", "Jenkins"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "axios", "Postman", "Figma", "Maple"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Working on CS50's Introduction to Artificial Intelligence with Python!",
+    desc: "When I'm not coding or pushing pixels, you can find me obsessing over two-dimensional characters, sketching, gaming, or photography."
+};
+```

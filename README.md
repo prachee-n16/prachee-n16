@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Software Engineer at NCR Canada.
 
 ```javascript
 const prachee = {
@@ -18,3 +19,5 @@ const prachee = {
     desc: "When I'm not coding or pushing pixels, you can find me obsessing over two-dimensional characters, sketching, gaming, or photography."
 };
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachee-n16)](https://github.com/anuraghazra/github-readme-stats)

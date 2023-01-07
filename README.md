@@ -15,7 +15,7 @@ const prachee = {
             js: ["Node", "Django", "Express"],
         },
         devOps: ["AWS", "Docker🐳", "Jenkins"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongo"],
         misc: ["Firebase", "axios", "Postman", "Figma", "Maple"]
     },
     architecture: ["Progressive web applications", "Single page applications"],

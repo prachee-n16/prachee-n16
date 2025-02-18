@@ -30,5 +30,6 @@ const prachee = {
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pracheen16&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-> [!IMPORTANT] This is a test
-> Test
+> **Note**
+>
+> This is a note

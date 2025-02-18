@@ -30,6 +30,5 @@ const prachee = {
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pracheen16&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
+> [!IMPORTANT] 
+> Avoid 
